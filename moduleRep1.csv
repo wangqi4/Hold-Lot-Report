@@ -1,0 +1,21 @@
+No,Dep,Module,RepName,GL,Goal,Mail
+A,PE,N/A,"Zhang, Tao","Yang, Bob",15,tao.zhang@intel.com
+B,PLNG,N/A,"Deng, Qinxia","Sun, Sally L",24,qinxia.deng@intel.com
+C,QRE,N/A,"Yang, Susan","Chen, Dong/Zeng, Li L",24,"susan.yang@intel.com,dong.chen@intel.com,li.l.zeng@intel.com"
+D,FA,N/A,"Liu, Yangxiu","Liu, Yangxiu",24,yangxiu.liu@intel.com
+D,LYA,N/A,"Luo, Wensley ","Luo, Wensley ",24,"Luo, Wensley "
+E,IT,N/A,"Liu, Cathy","Liu, Cathy",24,cathy.liu@intel.com
+F,MAT,N/A,"Du, Xiao","Tang, Linsheng",24,"linsheng.tang@intel.com,xiao.du@intel.com"
+G,AE,DSA,"Li, Yao1",Junying Wang,6,"yao1.li@intel.com,junying.wang@intel.com"
+G,AE,CAM/TCB,"Zhou,Bob",Bob Zhou,6,bob.zhou@intel.com
+G,AE,EPOXY,"Ma, Liang",Free Fang,6,"liang.ma@intel.com,free.fang@intel.com"
+G,AE,MHS,"Xu, Suxia",Xiong Wei,6,"suxia.xu@intel.com,wei.xiong@intel.com"
+G,AE,BA,"Yang, Yang9",Tang Yu,6,"yang9.yang@intel.com,yu.tang@intel.com"
+G,AE,FINISH,"He, Lijuan",Xiong Wei,6,"lijuan.he@intel.com,wei.xiong@intel.com"
+G,AE,XVI,"Jiang, Wei3",Biru Sheng,6,"wei3.jiang@intel.com,biru.sheng@intel.com,cdat_ae_peos@intel.com"
+N,TE,LCBI/OLX,"Chen, Dannie",Lingqiang Zeng,6,"dannie.chen@intel.com,lingqiang.zeng@intel.com"
+N,TE,V8,"Yuan, Duosheng","Bai, Zhigang",6,duosheng.yuan@intel.com
+N,TE,HDMX,"Ma, Mason ","Liu, Chao",6,"mason.ma@intel.com,chao.liu@intel.com"
+N,TE,Summit/Extreme,"Yuan, Duosheng","Bai, Zhigang",6,duosheng.yuan@intel.com
+N,TE,STHI,"Hu, Yunhai",Xi Hongwang Xi,6,yunhai.hu@intel.com
+R,MFG,N/A,On Shift SI,On Shift SI,3,cdat.mfg.si@intel.com
